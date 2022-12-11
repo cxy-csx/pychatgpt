@@ -7,7 +7,7 @@ B站UP主：程序员陈师兄
 
 公众号：大学资料库（还没想好起啥名...）
 
-![image-20221212010818720](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20221212010818720.png)
+![image](https://user-images.githubusercontent.com/53595779/206918223-cbf51da1-c14e-4b4b-a4a6-34f184328ac9.png)
 
 # 准备工作
 
